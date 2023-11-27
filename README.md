@@ -1,2 +1,2 @@
 # NLP
-說明:針對1000條用戶對飯店的相關評論，找到一個算法來判斷評論是正面還是負面。
+Description: Focused on 1000 user reviews related to hotels, identified an algorithm to determine whether the reviews are positive or negative.
